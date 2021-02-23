@@ -1,7 +1,7 @@
 name: analogclock
 description: A new Flutter package.
 version: 0.0.1
-author: Mujeeb khan <khanmujeeb687@gmail.com>
+#author: Mujeeb khan <khanmujeeb687@gmail.com>
 homepage: https://github.com/khanmujeeb687/analogclock.git
 
 environment:
